@@ -1,0 +1,2 @@
+# Predict_uesed_car_price-
+This repo contains the data and notebook in the "Used car price prediction" competition on Kaggle in 2021
